@@ -99,17 +99,6 @@ The model is evaluated using:
 ✔ Beginner Friendly Structure  
 
 ---
-
-# 📸 Screenshots
-
-Add project screenshots here.
-
-Example:
-
-```markdown
-![App Screenshot](images/screenshot.png)
-```
-
 ---
 
 # 🔮 Future Improvements
